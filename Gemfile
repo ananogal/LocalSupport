@@ -85,6 +85,8 @@ gem 'redcarpet'
 # validating organisation website URLs
 gem 'url_validator'
 
+# meaningful urls
+gem 'friendly_id', '~> 5.1.0'
 
 gem 'rails_autolink'
 gem "paranoia", "~> 2.0"
